@@ -1,6 +1,6 @@
 import { useState } from "react";
-import EditProfileModal from "./EditProfileModal"; // ✅ import your modal
-import avatar from "../public/avatar.png";
+import EditProfileModal from "./EditProfileModal";
+import avatar from "../public/Avatar.png";
 import logo from "../public/Logo.svg";
 import group2 from "../public/Group 2.png";
 import group26 from "../public/Group 26.png";
